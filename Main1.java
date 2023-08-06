@@ -1,4 +1,4 @@
-public class Main {
+public class Main1 {
 
     // Создание класса, который реализует интерфейс Runnable
     static class MyRunnable implements Runnable {
